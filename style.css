@@ -1,0 +1,32 @@
+body{
+    font-family: Tahoma;
+}
+
+body > header {
+    background-color: dodgerblue;
+    color: white;
+}
+
+#logo {
+    margin: 30px;
+    vertical-align: middle;
+}
+
+#header-list {
+
+    text-align: right;
+    color: white;
+    
+}
+
+body > footer {
+    background-color: dodgerblue;
+    color: white;
+    text-align: center;
+    padding: 10px;
+
+}
+
+#submit2 {
+    text-align: right;
+}
